@@ -1,4 +1,4 @@
-package com.apollo.rpc;
+package com.rpc.simplerpcclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

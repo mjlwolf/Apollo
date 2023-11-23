@@ -9,14 +9,16 @@
     <version>2.7.17</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.apollo</groupId>
+  <groupId>com.rpc</groupId>
   <artifactId>simple-rpc-client</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>simple-rpc-client</name>
   <description>simple-rpc-client</description>
+
   <properties>
     <java.version>11</java.version>
   </properties>
+
   <dependencies>
     <dependency>
       <groupId>org.springframework.boot</groupId>
